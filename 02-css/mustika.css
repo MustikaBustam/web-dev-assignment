@@ -1,0 +1,11 @@
+.mustika {
+    background-color: palevioletred;
+  }
+  .apel{
+      text-align: center;
+  }
+.bacground{
+      background: url(bg.Jpg);
+      background-size: cover;
+      background-attachment: fixed;
+  }
